@@ -111,3 +111,14 @@ ll.insertAt(200,4)
 ll.insertAt(200,-1)
 ll.deleteAt(0)
 ll.printLL()
+
+/***** OUTPUT ******
+10->20->30->
+Size: 3
+100->20->30->
+Size: 3
+Invalid Index 4
+Invalid Index -1
+20->30->
+Size: 2
+***** OUTPUT *******/
