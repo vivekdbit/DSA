@@ -10,3 +10,4 @@
 
 ### Stack
 - **[Design and implement Stack using Linked List](https://github.com/vivekdbit/DSA/blob/main/Javascript/stack-linked-list.js)**
+- **[20. Valid Parentheses](https://github.com/vivekdbit/DSA/blob/main/Javascript/valid-parentheses.js)**
