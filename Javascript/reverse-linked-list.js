@@ -1,8 +1,9 @@
 /*
-Reverse a Linked List
-*/
-/*
-Design and implement a Linked List data structure.
+LeetCode
+206. Reverse Linked List
+Given the head of a singly linked list, reverse the list, and return the reversed list.
+Input: head = [1,2,3,4,5]
+Output: [5,4,3,2,1]
 */
 
 // Define node class
@@ -80,17 +81,18 @@ class LinkedList {
 
 // Create a new linked list
 const ll = new LinkedList();
-ll.add(10)
-ll.add(20)
-ll.add(30)
-ll.add(40)
+ll.add(1)
+ll.add(2)
+ll.add(3)
+ll.add(4)
+ll.add(5)
 ll.printLL()
 ll.reverse()
 ll.printLL()
 
 /***** OUTPUT ******
-10->20->30->40->
+1->2->3->4->5->
 Size: 4
-40->30->20->10->
+5->4->3->2->1->
 Size: 4
 ***** OUTPUT *******/
