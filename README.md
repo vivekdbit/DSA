@@ -6,3 +6,7 @@
 - **[206. Reverse Linked List](https://github.com/vivekdbit/DSA/blob/main/Javascript/reverse-linked-list.js)**
 - **[876. Middle of the Linked List](https://github.com/vivekdbit/DSA/blob/main/Javascript/middle-linked-list.js)**
 - **[2095. Delete the Middle Node of a Linked List](https://github.com/vivekdbit/DSA/blob/main/Javascript/delete-middle-linked-list.js)**
+
+
+### Stack
+- **[Design and implement Stack using Linked List](https://github.com/vivekdbit/DSA/blob/main/Javascript/stack-linked-list.js)**
