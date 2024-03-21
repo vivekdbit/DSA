@@ -30,7 +30,7 @@ var isValid = function(s) {
         '[' : ']',
         '{' : '}',
     }
-
+ 
    for (let char of s) {
         if (bracketsMap[char]) {
             stack.push(char);
