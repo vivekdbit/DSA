@@ -12,6 +12,10 @@
 - **[20. Valid Parentheses](https://github.com/vivekdbit/DSA/blob/main/Javascript/valid-parentheses.js)**
 - **[735. Asteroid Collisions](https://github.com/vivekdbit/DSA/blob/main/Javascript/Asteroid-Collision.js)**
 
+### Queues
+- **[Queue Implementation using linked list](https://github.com/vivekdbit/DSA/blob/main/Javascript/queue-implement-linked-list.js)**
+- **[Queue Implementation using array](https://github.com/vivekdbit/DSA/blob/main/Javascript/queue-implement-array.js)**
+
 
 ### Binary Trees
 - **[Binary Trees Implementation](https://github.com/vivekdbit/DSA/blob/main/Javascript/binary-tree-implement.js)**

@@ -1,4 +1,4 @@
-// Preorder
+
 
 class Node {
     constructor(data) {
