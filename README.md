@@ -20,4 +20,5 @@
 ### Binary Trees
 - **[Binary Trees Implementation](https://github.com/vivekdbit/DSA/blob/main/Javascript/binary-tree-implement.js)**
 - **[Binary Trees Level Order Traversal](https://github.com/vivekdbit/DSA/blob/main/Javascript/binary-tree-level-order-traversal.js)**
+- **[Count of Nodes](https://github.com/vivekdbit/DSA/blob/main/Javascript/binary-tree-node-count.js)**
 - **[Right Side View](https://github.com/vivekdbit/DSA/blob/main/Javascript/binary-tree-rightSideView.js)**
